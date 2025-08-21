@@ -20,10 +20,7 @@ My experience in independent project development has cultivated strong problem-s
 
 #
 
-### 
+### 💻 Statistics 
 
-- 
--
--
--
--
+<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=ParkDent18&show_icons=true&locale=en&theme=darcula" alt="zanemooney" /></p>
+
