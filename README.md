@@ -1,6 +1,6 @@
 # 🎧 Parker Denton
 
-**'Digital Craftsman (Programmer/Runner)'** 
+**'Digital Craftsman (Programmer/Runner)'**
 
 I am currently pursuing cybersecurity education at Northwest-Shoals Community College (NWSCC) with the objective of becoming a Cyber Technician. My academic approach emphasizes independent learning and self-directed project development, having successfully completed numerous coding projects through autonomous research and implementation. 
 
@@ -13,17 +13,10 @@ My experience in independent project development has cultivated strong problem-s
 ### 🧰 Languages & Tools
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<!--
-**ParkDent18/ParkDent18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Statistics
+
